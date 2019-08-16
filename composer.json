@@ -1,0 +1,16 @@
+{
+    "name": "lglucasu/laravel-tool-box",
+    "description": "Some helpers to scaffolding applications",
+    "authors": [
+        {
+            "name": "Lucas Guilherme",
+            "email": "lglucasu@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "lglucasu\\laravelToolBox\\" : "src/"
+        }
+    }
+}
