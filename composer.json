@@ -1,5 +1,5 @@
 {
-    "name": "lglucasu/laravel-tool-box",
+    "name": "olucasu/laravel-tool-box",
     "description": "Some helpers to scaffolding applications",
     "authors": [
         {
@@ -10,7 +10,7 @@
     "require": {},
     "autoload" : {
         "psr-4": {
-            "lglucasu\\laravelToolBox\\" : "src/"
+            "olucasu\\laravelToolBox\\" : "src/"
         }
     }
 }

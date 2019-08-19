@@ -1,6 +1,6 @@
 <?php 
 
-namespace lglucasu\laravelToolBox;
+namespace olucasu\laravelToolBox;
 
 use Illuminate\Support\ServiceProvider;
 

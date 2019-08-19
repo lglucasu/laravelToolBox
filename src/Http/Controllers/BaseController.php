@@ -1,6 +1,6 @@
 <?php 
 
-namespace lglucasu\laravelToolBox\Http\Controllers;
+namespace olucasu\laravelToolBox\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 
